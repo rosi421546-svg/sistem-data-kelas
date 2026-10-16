@@ -56,7 +56,7 @@ def get_opsi_kelas():
 
 # 3. Sidebar Navigasi
 with st.sidebar:
-    st.image("https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo-Tut-Wuri-Handayani-PNG-Warna.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", width=50)
+    st.image("https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo-Tut-Wuri-Handayani-PNG-Warna.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", width=100)
     st.markdown("### **SMPN 7 JEMBER**")
     st.caption("Sistem Akademik")
     st.divider()
